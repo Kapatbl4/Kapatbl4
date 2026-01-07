@@ -1,12 +1,10 @@
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### I'm going to become a Backend Developer, so I learn Java on Hexlet.
+### I'm going to become a Backend Developer, so I learn Java.
 ### My pet-projects:
 * [Page Analyzer](https://github.com/Kapatbl4/java-project-72)
 * [Data validator](https://github.com/Kapatbl4/java-project-lvl3)
 * [File differencer](https://github.com/Kapatbl4/java-project-lvl2)
 * [Brain games](https://github.com/Kapatbl4/java-project-lvl1)
-
-###  I'm currently working on [Task manager](http://github.com/Kapatbl4/java-project-99) using Spring.
 
 ### My Skills
 
